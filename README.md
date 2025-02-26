@@ -23,7 +23,7 @@
 --- 
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gabrielbelloo&show_icons=true&hide=prs,contribs&theme=transparent&border_radius=0&"/>  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbelloo&layout=compact&theme=transparent&border_radius=0&"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielbelloo&show_icons=true&hide=prs,contribs&theme=transparent&border_radius=0&"/>  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbelloo&layout=compact&theme=transparent&border_radius=0&"/>
 </div><br>
 
 <p align="right"> <a href="mailtobellodealmeidagabriel@gmail.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="20" height="20"/></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/gabriel-bello-de-almeida/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/></a></p>
