@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Gabriel Bello
 
-💻 **Analista de Suporte | Programador Full-Stack**  
+💻 **Programador Full-Stack**  
 🎓 **Cursando Engenharia de Software**  
 
 - 🚀 Apaixonado por tecnologia, desenvolvimento web e sistemas escaláveis.
