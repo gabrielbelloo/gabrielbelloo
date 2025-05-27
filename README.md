@@ -5,7 +5,7 @@
 
 - 🚀 Apaixonado por tecnologia, desenvolvimento web e sistemas escaláveis.
 - 📌 Trabalhando com **Node.js, Express e PostgreSQL!**
-- 📖 Atualmente estudando **C**.
+- 📖 Atualmente estudando **Vue.js**.
 - 🔥 Sempre buscando desafios e novas oportunidades.
 
 ---
