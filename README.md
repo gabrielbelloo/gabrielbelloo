@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Bello</h1>
 <h3 align="center">A full-stack developer from Brazil!</h3>
 
-- 🔭 I’m currently working on [ValidAí](https://github.com/gabrielbelloo/ValidAi)
-
 - 🌱 I’m currently learning **React, Node.js and Java**
 
 - 📫 How to reach me **bellodealmeidagabriel@gmail.com**
